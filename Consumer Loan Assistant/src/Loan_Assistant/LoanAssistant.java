@@ -131,6 +131,10 @@ public class LoanAssistant extends JFrame {
 			}
 		});
 
+	// Monthly Payment Label and Text Field
+		
+
+
 	}
 	protected void balanceTextFieldActionPerformed(ActionEvent e) {}
 	protected void interestFieldActionPerformed(ActionEvent e) {}

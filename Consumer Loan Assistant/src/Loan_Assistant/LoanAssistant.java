@@ -133,6 +133,11 @@ public class LoanAssistant extends JFrame {
 
 	// Monthly Payment Label and Text Field
 		
+		monthsLabel.setText("Monthly Payment");
+		monthsLabel.setFont(myFont);
+		constraints = new GridBagConstraints();
+		constraints.gridx = 2;
+		constraints.gridy = 2;
 
 
 	}
